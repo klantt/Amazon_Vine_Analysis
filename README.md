@@ -32,6 +32,7 @@
     
    ![](Unpaid5star Percent.png)
   
+
 ###Sumary
   -At the end of gooing through the data sets I believe that the vine reviews do reveal a bias positively towards the product the review is on but it is in no way affecting the product in an overwhelmingly positive way or swaying the overall ratings as they're so many reviews for each product they seem to ix in just fine with the rest of the reviews.
   
