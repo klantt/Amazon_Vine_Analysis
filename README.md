@@ -13,22 +13,24 @@
   ![](UnPaidRreviews.png)
   
   -For the next two screenshots I will be posting are how many vine reviews were five stars and how many non vine reviews were five stars.
-    -Vine five stars
+  
+   -Vine five stars
     
-    ![](Paid5star.png)
+   ![](Paid5star.png)
     
-    -Non vine five stars
+   -Non vine five stars
     
-    ![](Unpaid5star.png)
+   ![](Unpaid5star.png)
     
   -Lastly I will show the total percent of Vine five star rviews and non vine five star reviews. 
-    -Vine percent
+  
+   -Vine percent
     
-    ![](Paid5starPercent.png)
+   ![](Paid5starPercent.png)
     
-    -Non vine percent
+   -Non vine percent
     
-    ![](Unpaid5star Percent.png)
+   ![](Unpaid5star Percent.png)
   
 ###Sumary
   -At the end of gooing through the data sets I believe that the vine reviews do reveal a bias positively towards the product the review is on but it is in no way affecting the product in an overwhelmingly positive way or swaying the overall ratings as they're so many reviews for each product they seem to ix in just fine with the rest of the reviews.
