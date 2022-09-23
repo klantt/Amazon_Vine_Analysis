@@ -5,21 +5,29 @@
 ### Results
 
   -Firstly I have below shown are Vine reviews. 
+  
   ![](PaidVineReview.png)
   
   -Next will be nonvine reviews. 
+  
   ![](UnPaidRreviews.png)
   
   -For the next two screenshots I will be posting are how many vine reviews were five stars and how many non vine reviews were five stars.
     -Vine five stars
+    
     ![](Paid5star.png)
+    
     -Non vine five stars
+    
     ![](Unpaid5star.png)
     
   -Lastly I will show the total percent of Vine five star rviews and non vine five star reviews. 
     -Vine percent
+    
     ![](Paid5starPercent.png)
+    
     -Non vine percent
+    
     ![](Unpaid5star Percent.png)
   
 ###Sumary
